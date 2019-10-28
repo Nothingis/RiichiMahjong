@@ -31,6 +31,8 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-plugin-react": "^7.16.0",
     "gh-pages": "^2.1.1"
   },
   "homepage": "https://nothingis.github.io/RiichiMahjong"
